@@ -1,0 +1,1001 @@
+id,sepal lengthCm,sepal widthCm,petallengthCm,petal widthCm,species
+283,5.5,2.4,5,0.6,Agave toumeyana Trel. ex Standl. var. toumeyana
+286,6.8,3,1.5,0.4,Calopadia puiggarii (Müll. Arg.) Vezda
+395,6.4,2.3,5.7,2.1,Portulaca pilosa L.
+673,5,3,4.9,1.2,Forestiera godfreyi L.C. Anderson
+148,4.9,2.5,6.5,1.7,Acacia implexa Benth.
+836,6.3,2,2.7,0.7,Phacelia stebbinsii Constance & Heckard
+923,5.3,4,6.1,1.3,Kyllinga Rottb.
+309,4.3,3.5,6.8,1.7,Penstemon roezlii Regel
+684,4.7,2.8,4,0.3,Stenogyne bifida Hillebr.
+15,6.9,2.1,1.3,1.8,Hippuris vulgaris L.
+698,7.6,4,6.9,2.4,Astragalus subvestitus (Jeps.) Barneby
+195,6.2,2.4,5.2,1.2,Solanum commersonii Dunal ex Poir.
+349,7.6,4.1,3.2,1.7,Artemisia stelleriana Besser
+716,7.6,3,6.6,0.6,Rumex tomentellus Rech. f.
+724,5.6,4.1,3.5,1.6,Lobularia Desv.
+121,6.4,4.3,2.1,2.2,Salvia vinacea Wooton & Standl.
+189,6.4,3,3.8,1.5,Combretum tetralophum C.B. Clarke
+631,6.1,2.3,2.7,2.4,Quercus ×robbinsii Trel.
+988,6.6,2.4,4.5,0.7,Epipactis gigantea Douglas ex Hook.
+273,4.9,2.3,3.4,2.3,Fimbristylis brevivaginata Kral
+905,5.1,2.9,2.4,0.5,Hygroamblystegium tenax (Hedw.) Jenn.
+852,6.2,3,1.6,2,Thelypteris simulata (Davenport) Nieuwl.
+224,7.7,2.6,5.1,0.1,Monarda L.
+191,4.6,2.8,6.7,0.2,Eucalyptus hemiphloia F. Muell. ex Benth.
+48,6.2,4.2,4.5,0.5,Clasmatodon parvulus (Hampe) Hook. & Wilson ex Sull.
+359,7.7,4.4,4.9,1.9,Tortula Hedw.
+746,5.8,2.4,2.1,0.3,Thelypteris quelpaertensis (Christ) Ching
+808,5.4,2.6,4.9,0.4,Iris sanguinea Hornem.
+539,5.3,2.7,4.6,0.7,Melpomense A.R. Sm. & R.C. Moran
+1,6.8,2.6,3.6,1.2,Opuntia fragilis (Nutt.) Haw.
+763,5.9,4.3,5.5,1.8,Ixora pavetta Andrews
+945,7.7,2.5,5.2,0.8,Brickellia arguta B.L. Rob. var. odontolepis B.L. Rob.
+821,4.8,3.4,4,2.3,Rumex krausei Jurtzev & V.V. Petrovsky
+169,4.6,3.3,3.4,2.2,Silphium scaberrimum Elliott
+44,5.7,2.8,3.1,2.5,Hedyotis knudsenii (Hillebr.) Fosberg
+304,4.3,2.4,6.2,2.4,Seligeria careyana Vitt & Schof.
+544,6.5,2.8,4,0.2,Arnica frigida C.A. Mey. ex Iljin ssp. griscomii (Fernald) S.R. Downie
+952,7.7,4.2,2.6,1.7,Polymnia cossatotensis Pittman & V.M. Bates
+241,4.9,2.6,5.7,1.4,Echinacea pallida (Nutt.) Nutt.
+969,6.1,4.1,2.7,2.1,Allium tolmiei (Hook.) Baker ex S. Watson var. tolmiei
+673,6.1,2.3,3,0.1,Nicotiana excelsior (J.M. Black) J.M. Black
+943,6.1,3.8,3.9,2.3,Forchhammeria polyandra (Griseb.) Alain
+419,5,4.3,4.6,2.5,Galactia striata (Jacq.) Urb.
+118,5.2,2.4,3.6,1,Descurainia paradisa (A. Nelson & Kennedy) O.E. Schulz ssp. nevadensis Rollins
+35,7.3,3.6,6.6,2.4,Microchloa caffra Nees
+200,7.5,3.1,6.8,2.1,Cinclidium arcticum Bruch & Schimp.
+668,7.8,2.4,4.3,1.2,Stanleya pinnata (Pursh) Britton var. inyoensis (Munz & Roos) Reveal
+274,4.8,4,1.4,1.3,Pyrrocoma liatriformis Greene
+566,6.5,3.3,3.6,2.2,Kiaeria falcata (Hedw.) I. Hagen
+361,6.6,4.2,4.6,2.3,Astragalus zionis M.E. Jones
+732,5.4,3.4,5.8,0.8,Beloglottis costaricensis (Rchb. f.) Schltr.
+456,4.5,3.9,6.1,2.4,Picris echioides L.
+115,6.1,2.5,4.7,2.4,Stillingia spinulosa Torr.
+313,7.6,3.4,6.3,0.8,Camassia leichtlinii (Baker) S. Watson
+784,5.8,2.8,3.5,1.1,Melanelia elegantula (Zahlbr.) Essl.
+327,5.1,3,3.7,2.4,Asplenium uniseriale Raddi
+132,5,2.4,3,0.8,Didymodon vinealis (Brid.) R.H. Zander var. brachyphyllus (Sull.) R.H. Zander
+962,4.2,4,6.5,1.5,Gutierrezia texana (DC.) Torr. & A. Gray var. glutinosa (S. Schauer) M.A. Lane
+888,5.4,3.2,6.8,1.5,Bryum knowltonii Barnes
+68,4.7,2.1,3.7,1.8,Gossypianthus lanuginosus (Poir.) Moq. var. tenuiflorus (Hook.) Mears ex Henrickson
+651,7.7,4.3,5.5,2.5,Spondias mombin L.
+686,4.5,2.7,1.3,1.8,Usnea monstruosa Vain.
+982,4.3,3.5,2.8,1,Ehretia P. Br.
+824,6.6,2.6,2.1,2,Lipocarpha occidentalis (A. Gray) G. Tucker
+607,5.7,2.5,1.8,2,Passiflora arizonica (Killip) D.H. Goldman
+971,6.2,4.3,4.6,0.6,Gilia flavocincta A. Nelson
+184,7.6,3.6,5.8,0.6,Arabis crucisetosa Constance & Rollins
+602,5.1,2.9,3.3,2,Potentilla gracilis Douglas ex Hook. var. flabelliformis (Lehm.) Nutt. ex Torr. & A. Gray
+756,4.2,3.3,2.7,0.6,Epilobium septentrionale (D.D. Keck) R.N. Bowman & Hoch
+217,5.9,2.2,2.2,1,Panicum trichanthum Nees
+404,6.2,2.3,6.6,1.8,Erigeron austiniae Greene
+160,5.2,2.7,2.5,0.4,Huperzia appalachiana Beitel & Mickel
+906,4.2,3.9,6.5,0.4,Aulacomnium heterostichum (Hedw.) Bruch & Schimp.
+380,5.6,3.2,5.6,1.2,Lesquerella alpina (Nutt.) S. Watson
+893,7.2,4.3,3.9,2,Sideroxylon alachuense L.C. Anderson
+163,6.5,2.6,4.4,2,Melanthera ligulata Small
+494,4.4,3.6,3.9,1.7,Nigella hispanica L.
+506,6.3,4.2,4.1,0.3,Cuscuta attenuata Waterf.
+61,5.8,3.2,6.3,1.7,Jasminum nitidum Skan
+931,4.4,4.3,1.7,1.5,Nymphaea amazonum Mart. & Zucc.
+37,6,2.6,4.5,1.5,Hymenophyllum brevifrons Kunze
+883,7.3,3,6.9,1.9,Triticum timopheevii (Zhuk.) Zhuk.
+307,5.3,2.4,1.1,1.9,Trichosanthes dioica Roxb.
+671,5.8,3.9,3.8,1.7,Vernonia larseniae B.L. King & S.B. Jones
+989,7,3.7,6.7,0.9,Stenandrium dulce (Cav.) Nees var. floridanum A. Gray
+877,6.7,2.7,2.9,0.6,Arenaria congesta Nutt. var. subcongesta (S. Watson) S. Watson
+825,4.4,4.1,4,0.2,Aloysia wrightii (A. Gray) A. Heller
+126,4.3,4.1,4.4,1.5,Urvillea Kunth
+133,6.5,2.8,5.7,2.3,Camissonia kernensis (Munz) P.H. Raven ssp. kernensis
+945,4.5,4,6.6,0.6,Cordylanthus orcuttianus A. Gray
+460,4.7,4.1,1.3,1,Penstemon lentus Pennell var. lentus
+928,6.6,4.1,5.2,0.8,Halimolobos perplexa (L.F. Hend.) Rollins var. perplexa
+334,5.6,2.2,5.9,1.1,Vaccinium angustifolium Aiton
+907,4.4,3.2,1.3,1.7,Sterculia foetida L.
+977,5.9,3,6.7,0.7,Equisetum ×nelsonii (A.A. Eaton) Schaffn. (pro sp.)
+94,5.9,4,3.3,1.2,Rubus hawaiensis A. Gray
+850,4.6,3.2,6.7,1.4,Lycopodiella appressa (Chapm.) Cranfill
+555,7.7,4.2,1.9,2.4,Dryopteris campyloptera Clarkson
+650,5.7,3.2,2.7,1.1,Parnassia glauca Raf.
+224,6.9,4.1,1.6,0.9,Aeschynomene gracilis Vogel
+433,4.3,2.9,1.2,1.6,Polygonatum Mill.
+611,6,4.4,5.3,0.8,Desmodium pauciflorum (Nutt.) DC.
+34,7.9,3.7,5.1,1.7,Floerkea proserpinacoides Willd.
+857,4.4,4.1,1.7,0.6,Senecio fremontii Torr. & A. Gray var. fremontii
+508,4.4,2.9,5.2,2.1,Habenaria alata Hook.
+134,5.6,2.2,5,1.9,Rubus bifrons × ursinus [unnamed hybrid]
+634,5.5,4.2,2.5,0.2,Cocculus diversifolius DC.
+943,7.4,3.8,6.5,2,Yucca baileyi Wooton & Standl. var. baileyi
+471,4.5,4.1,5.4,1.1,Paspalum praecox Walter
+19,7.1,3.1,1.4,0.9,Castilleja chlorotica Piper
+560,6.9,3.4,5.3,2,Guilleminea densa (Humb. & Bonpl. ex Schult.) Moq.
+971,7.1,3.1,4,2,Chaenothecopsis Vain.
+306,4.3,4.2,3.5,0.1,Melicope cruciata (A. Heller) T.G. Hartley & B.C. Stone
+924,5,2.5,6.3,0.2,Hybanthus attenuatus (Humb. & Bonpl. ex Schult.) Schulze-Menz
+549,4.4,3.6,3,1.7,Senna lindheimeriana (Scheele) Irwin & Barneby
+604,7.9,2.7,6,1.1,Ficus sycomorus L.
+922,7.4,3.3,1.6,1.3,Urochloa fusca (Sw.) B.F. Hansen & Wunderlin
+43,7.6,3.5,3.7,1.3,Brunfelsia L.
+606,5.3,4.2,1.2,1.4,Collinsia bartsiifolia Benth. var. davidsonii (Parish) Newsom
+204,4,3.8,6.3,0.8,Dissanthelium Trin.
+23,6.4,3.6,5.3,0.6,Perideridia bolanderi (A. Gray) A. Nelson & J.F. Macbr. ssp. bolanderi
+360,6.2,2.9,4.4,0.3,Gyroweisia Schimp.
+232,4.1,4.1,1.8,0.6,Citharexylum caudatum L.
+360,7.7,2.4,5.1,2,Aspicilia leprosescens (Sandst.) Hav.
+718,4.9,2.7,5.9,2.3,Phacelia heterophylla Pursh ssp. heterophylla
+893,5.5,3.4,6.1,1.8,Machaeranthera carnosa (A. Gray) G.L. Nesom var. intricata (A. Gray) G.L. Nesom
+933,7.5,3.3,1.8,2.4,Carex schweinitzii Dewey ex Schwein.
+121,5.4,2.1,1.4,2.2,Eriogonum tiehmii Reveal
+609,6.8,4.1,2.5,0.9,Acacia omalophylla A. Cunn. ex Benth.
+95,6.5,2.1,5.1,1.1,Lysiloma candidum Brandegee
+998,4.6,4,4.3,1,Chenopodium humile Hook.
+287,6.2,3.7,4.7,2,Epilobium hornemannii Rchb. ssp. hornemannii
+177,5,4,4.1,1.1,Sedum oblanceolatum R.T. Clausen
+749,4.2,3.5,2.1,1,Embothrium coccineum J.R. Forst. & G. Forst.
+722,6.5,2.8,6.4,1.5,Clematis coactilis (Fernald) Keener
+118,5.6,3.4,3.6,1.2,Dichanthelium sabulorum (Lam.) Gould & C.A. Clark var. thinium (Hitchc. & Chase) Gould & C.A. Clark
+248,4.8,3.1,4.3,1.6,Clarkia speciosa F.H. Lewis & M.E. Lewis ssp. speciosa
+344,4.7,3.4,3.8,1.2,Capparis L.
+971,5.9,3.9,1.7,0.3,Ipomoea amnicola Morong
+950,7.7,3.5,2.8,2.3,Achyranthes aspera L.
+866,7,3.4,2.5,1.1,Gaura L.
+878,6.5,4.1,5.4,1.7,Sphaeralcea fendleri A. Gray
+414,5.6,4.1,2.6,2.5,Arthrorhaphis citrinella (Ach.) Poelt
+431,5.9,4.3,1.2,1.4,Sophora stenophylla A. Gray
+641,6.4,3.2,5.4,0.3,Stellaria dicranoides (Cham. & Schltdl.) Fenzl
+57,5.2,4,3,0.4,Delphinium nuttallii A. Gray ssp. nuttallii
+521,7.9,2.5,3.1,1.2,Hesperaloe parviflora (Torr.) J.M. Coult. var. parviflora
+70,4.9,3.2,1.8,0.7,Haplostachys haplostachya (A. Gray) H. St. John
+958,6.9,3.8,3.6,1.2,Prunus subcordata Benth. var. rubicunda Jeps.
+474,5.8,2.8,6.5,1.6,Rhynchosia reticulata (Sw.) DC.
+111,6.3,3.3,3.4,0.8,Penstemon triflorus A. Heller
+387,4.4,4.3,6.3,1.8,Dicerandra linearifolia (Elliott) Benth. var. linearifolia
+434,5,3.7,3.1,2.1,Ruellia corzoi Tharp & F.A. Barkley
+623,6,2.5,4.1,2.3,Melia L.
+876,5.3,2.4,2,1.2,Carex turbinata Liebm.
+828,5.9,4.3,6.4,0.3,Gymnocarpium Newman
+380,7.4,2.1,2.7,1.3,Calystegia spithamaea (L.) Pursh
+403,5.4,2.3,3.1,1,Halimium (Dunal) Spach
+467,7.4,2.8,4.9,1.2,Poa nemoralis L. ssp. interior (Rydb.) W.A. Weber
+861,4.7,3.9,4.8,1,Cuscuta tuberculata Brandegee
+456,4.3,3.2,6,0.2,Carex thornei Naczi
+435,5.3,3.2,4.7,1.5,Populus ×jackii Sarg.
+471,6.8,3.6,5.7,2.2,Clematis occidentalis (Hornem.) DC. var. dissecta (C.L. Hitchc.) J. Pringle
+849,4.8,4.4,6.4,0.6,Meconella californica Torr. & Frém.
+481,6,3.5,2.9,1,Pteris irregularis Kaulf.
+353,4.4,3.2,6.1,1.1,Erigeron eximius Greene
+408,4.4,3.4,2.6,1.2,Merremia umbellata (L.) Hallier f.
+858,6.6,2.1,3.8,1.9,Ranunculus ambigens S. Watson
+611,7.2,3.5,4.9,0.4,Olsynium douglasii (A. Dietr.) E.P. Bicknell
+726,7.8,4.1,5.3,2.3,Acarospora americana H. Magn.
+60,4.9,3.9,1.6,0.3,Trichostomopsis Cardot
+871,4.9,2.6,3.5,0.3,Plantago sparsiflora Michx.
+482,5.2,4.2,4.9,1,Pohlia annotina (Hedw.) Lindb.
+539,7.8,3,3.3,1.5,Chrysosplenium wrightii Franch. & Savigny
+427,5.1,3.9,3.9,0.8,Websteria confervoides (Poir.) S. Hooper
+882,7.7,2.6,4.1,1.4,Chaptalia nutans (L.) Polak.
+710,6.7,4,6.6,1.4,Opuntia engelmannii Salm-Dyck ex Engelm. var. cuija Griffiths & Hare
+277,6.3,3.3,1.8,0.5,Leptogium fusisporum (Tuck.) C.W. Dodge
+947,7.6,4.4,6.8,1.3,Digitaria villosa (Walter) Pers.
+964,6.7,4.1,1.2,1,Sanguisorba canadensis L.
+6,4.3,3.4,4.7,1.5,Spermacoce prostrata Aubl.
+751,4.9,4.3,1.7,2.2,Guettarda L.
+714,6.1,3.9,5.3,1.2,Lilaea Bonpl.
+21,6.4,2.8,1.7,0.2,Arum L.
+10,4.8,4.3,6.7,0.8,Pycnothelia papillaria Ehrh.) L.M. Dufour
+476,7.2,3.2,2,1.3,Viguiera dentata (Cav.) Spreng. var. lancifolia S.F. Blake
+475,5.7,4.1,1.5,2.5,Eriogonum aliquantum Reveal
+127,7.9,4.3,1.3,1.7,Platismatia glauca (L.) W.L. Culb. & C.F. Culb.
+869,4.2,2.1,1.4,1.9,Iris virginica L.
+981,5.3,4.1,5.9,0.2,Calochortus leichtlinii Hook. f.
+225,7.2,4.2,4.7,0.9,Abronia nana S. Watson var. harrisii S.L. Welsh
+208,5,3.2,2.1,2,Vicia sativa L. ssp. sativa
+532,7.1,3.7,1,0.9,Xanthoria fallax (Hepp) Arnold
+406,6.3,3.1,2.9,1.9,Heuchera richardsonii R. Br.
+138,6.8,2.6,5.7,0.7,Clibadium L.
+789,4.1,4.2,6.5,0.6,Artemisia papposa S.F. Blake & Cronquist
+112,4.1,3.2,1.1,1.7,Silphium integrifolium Michx. var. neglectum Settle & T.R. Fisher
+599,5.1,4.2,4.8,1,Chlorocrambe Rydb.
+515,6,2.9,5,2.2,Delphinium geyeri Greene
+290,6.9,2.6,6.2,1.3,Vicia americana Muhl. ex Willd. ssp. americana
+313,5.4,4.3,2.2,2.5,Telfairia occidentalis Hook. f.
+521,5.3,4,5.5,2.4,Arthothelium albovirescens (Nyl.) Fink
+297,7.1,2.1,4,1.9,Trifolium scutatum Boiss.
+656,5.5,2.1,3.1,1,Oenothera falfurriae W. Dietr. & W.L. Wagner
+353,5.4,3.4,6,1.9,Argemone ochroleuca Sweet
+791,4.5,2.6,1.3,2,Cyperus flavidus Retz.
+954,6.5,4.2,3.6,0.4,Stenogyne calycosa Sherff
+389,7.8,3.8,2.5,0.2,Euonymus japonicus Thunb.
+585,5.8,4.1,3.3,2.2,Synthyris reniformis (Douglas ex Benth.) Benth. var. cordata A. Gray
+833,4.9,2.3,5.7,0.8,Salvia chapmanii A. Gray
+688,6.3,3.1,5.8,1.3,Agalinis gattingeri (Small) Small
+526,7.7,3.2,2.9,1.5,Camellia sinensis (L.) Kuntze var. assamica (J. Masters) Kitam.
+380,7.1,4.1,5.3,1.3,Lupinus ruber A. Heller
+993,4,3.4,4,2.4,Bidens forbesii Sherff
+398,6.5,3.3,1,2.2,Brassica oleracea L. var. gongylodes L.
+825,6.6,2.1,1.9,2.3,Corallorhiza odontorhiza (Willd.) Poir. var. pringlei (Greenm.) Freudenstein
+127,5.9,4.3,2.4,2.4,Scutellaria integrifolia L.
+764,7.1,3.4,5.1,0.4,Galium mexicanum Kunth ssp. flexicum Dempster
+298,4.6,2.8,6,2.2,Liatris elegans (Walter) Michx. var. kralii Mayfield
+101,4.5,3,1.6,2.3,Listera auriculata Wiegand
+145,6.8,2.8,1.4,0.7,Brassica parachinensis L.H. Bailey
+976,7,3.1,2.3,1.4,Pellaea glabella Mett. ex Kuhn
+892,4.8,3.2,6.2,2.1,Croton lindheimerianus Scheele var. tharpii M.C. Johnst.
+172,5.4,2.5,5,1.1,Pontederia L.
+64,7.3,2.5,5.8,2.2,Cyrtomnium hymenophylloides (Hüb.) Nyholm ex T. Kop.
+282,4.1,3.3,2.1,1.8,Lathyrus holochlorus (Piper) C.L. Hitchc.
+258,4.9,2.9,1.6,2.2,Psorothamnus spinosus (A. Gray) Barneby
+637,7,2.9,4.9,0.3,Eryngium aquaticum L. var. ravenelii (A. Gray) Mathias & Constance
+786,5.6,3.1,6.3,1.7,Senecio eremophilus Richardson
+882,4.5,4.1,1.6,1.5,Polygonum davisiae W.H. Brewer ex A. Gray
+353,5.6,2.1,3.5,0.4,Hosta Tratt.
+999,6,4.3,5.5,0.3,Dioscorea altissima Lam.
+117,7.8,3.3,3.8,1.1,Solidago nemoralis Aiton var. nemoralis
+858,4,2.3,4.1,2,Astragalus oophorus S. Watson var. lonchocalyx Barneby
+704,5.2,3.5,2.2,0.8,Blechnum insularum Morton & Lellinger
+72,7.4,4.2,4,1.4,Gaura mckelveyae (Munz) P.H. Raven & Gregory
+816,4.1,2.2,5.6,0.9,Costus woodsonii Maas
+604,7.6,3.5,4.9,0.3,Lesquerella hemiphysaria Maguire var. lucens S.L. Welsh & Reveal
+690,4.5,3.1,4.9,2.3,Opuntia valida Griffiths
+713,5.4,3.8,5.5,1.7,Centaurium pulchellum (Sw.) Druce
+715,6.9,3.1,3.5,1.9,Didymodon revolutus (Cardot) R.S. Williams
+278,7.1,2.3,2.7,1.1,Lomatium idahoense Mathias & Constance
+132,6.1,2.7,6.2,0.7,Eriogonum cinereum Benth.
+404,6.5,4,1.4,0.3,Lecanora applegatei Herre
+962,7.4,2.7,4.2,0.2,Gaillardia multiceps Greene var. microcephala B.L. Turner
+292,7.1,3.9,1.4,1.3,Pectis angustifolia Torr. var. tenella (DC.) Keil
+912,5.8,3.2,5.5,1,Crumia latifolia (Kindb.) Schof.
+388,4.6,3.1,6.3,2.2,Eriogonum nudum Douglas ex Benth. var. auriculatum (Benth.) Tracy ex Jeps.
+512,5.7,4,5.5,1.5,Cuscuta europaea L.
+266,4.3,4.3,6.8,1.7,Dianthus carthusianorum L.
+587,5.4,3.1,5.7,0.2,Pedicularis attollens A. Gray ssp. attollens
+707,7.4,3.5,3.1,1,Cupressus sempervirens L.
+137,6.1,3.4,1.5,0.2,Viola chamissoniana Gingins
+326,7.8,2.6,3.9,1.7,Viola brittoniana Pollard
+594,5.8,2.1,6.3,0.3,Arthothelium distendens (Nyl.) Müll. Arg.
+999,7.9,3.9,3.1,1,Galium muricatum W. Wight
+894,5.3,4,4.6,2.1,Micarea lignaria (Ach.) Hedl.
+43,4.2,3.2,3.1,2.5,Physaria newberryi A. Gray var. racemosa Rollins
+47,6.1,2.1,6.3,0.7,Carex projecta Mack.
+356,6.3,2.2,6.1,0.9,Bromus ciliatus L.
+993,6.5,2.3,6.7,0.8,Sideroxylon foetidissimum Jacq.
+190,4.1,4.3,6,1,Pannaria rubiginosa (Ach.) Bory
+948,4.8,2.9,6.1,1.6,Elaphoglossum longifolium (C. Presl) J. Sm.
+547,6.1,2.5,1.5,2.4,Phacelia ciliata Benth. var. ciliata
+750,5.3,3.5,1.8,1,Centrosema molle Mart. ex Benth.
+432,6.3,2.9,5.4,2.5,Cuscuta ceanothi Behr
+229,4,3.2,6.8,1.2,Cyanea hirtella (H. Mann) Hillebr.
+360,7.5,3.7,4.5,0.7,Lecidea katahdinensis Degel.
+800,7,2.9,4.5,1.3,Camissonia boothii (Douglas ex Lehm.) P.H. Raven ssp. alyssoides (Hook. & Arn.) P.H. Raven
+96,5.9,2.8,6.5,0.5,Kalmia microphylla (Hook.) A. Heller
+702,7.6,4.3,2.2,1.2,Pertusaria rhexostoma Nyl.
+24,5.3,3.9,3.4,2.2,Bacidia subincompta (Nyl.) Arnold
+759,6.1,3.4,2,1.9,Sicyos lasiocephalus Skottsb.
+694,6.8,2.9,2.8,2.4,Cercocarpus montanus Raf.
+55,6,2.8,2.1,2.3,Erigeron poliospermus A. Gray
+737,7.1,2.1,5.5,0.2,Bidens sandvicensis Less. ssp. sandvicensis
+210,5.2,3.5,2.5,2,Lupinus pratensis A. Heller var. eriostachyus C.P. Sm.
+598,5.5,2.6,5.5,1.5,Gutierrezia sphaerocephala A. Gray
+101,4.7,2.3,6.3,1.4,Trapeliopsis Hertel & Gotth. Schneid.
+192,5.2,2.7,2.9,0.4,Achillea L.
+281,7.8,3.8,3.8,1.4,Diodia radula Cham. & Schltdl.
+952,7.5,3.6,2.3,0.3,Pentas lanceolata (Forssk.) Deflers
+372,5.9,2.1,2.9,1.8,Cola verticillata (Thonn.) Stapf ex A. Chev.
+579,5.1,3.4,5.9,2.3,Grammitis hookeri (Brack.) Copeland
+930,7.7,4,2.3,0.7,Polygonum alpinum All.
+462,6.3,2.8,3.8,1.5,Hyeronima Allemao
+278,4.3,2.8,4.6,0.8,Megalospora tuberculosa (Fée) Sipman
+685,7.6,4.2,2.9,1.1,Oxytropis splendens Douglas ex Hook.
+719,6.8,3.6,3,2.1,Astragalus obcordatus Elliott
+799,6.5,3.5,1.1,1.6,Lemna trisulca L.
+750,7.2,4.4,3.8,0.6,Acer glabrum Torr. var. greenei Keller
+547,4.4,3,2.8,1.1,Ilex volkensiana (Loes.) Kanehira & Hatusima
+257,4.9,2.8,1.8,0.5,Palafoxia texana DC. var. texana
+727,5,3.9,1.9,1.6,Ivesia sabulosa (M.E. Jones) D.D. Keck
+653,5,3.2,3.1,0.9,Romanzoffia thompsonii Marttala
+320,7.2,2.8,4.8,2.1,Placopsis (Nyl.) Lindsay
+493,4.5,4,5.2,1.9,Chaenactis carphoclinia A. Gray var. carphoclinia
+820,7.7,3.9,6.3,0.6,Campanula trachelium L.
+198,5.2,3.7,6.8,1.7,Nephrolepis falcata (Cav.) C. Chr.
+504,4.8,3.1,3.4,2,Melampyrum lineare Desr. var. lineare
+362,6.1,4.3,1.1,2.1,Pyrenopsis compacta Willey
+394,6.9,2.7,1.5,1.9,Chamaesyce geyeri (Engelm. & A. Gray) Small
+390,7.1,3.1,3.8,0.3,Tetraneuris Greene
+898,5.7,4.3,4.9,1.7,Hylocomiastrum Fleisch.
+661,5.3,2.5,5.8,2.3,Baptisia ×microphylla Nutt. (pro sp.)
+786,4.4,3.6,1.8,0.2,Potentilla pulcherrima Lehm.
+811,4.3,3.6,2.2,1,Ledum groenlandicum Oeder
+648,7,4.3,1.1,0.9,Geum L.
+62,5.6,3.3,3.9,1.8,Calamagrostis lapponica (Wahlenb.) Hartm.
+685,4.7,2.7,2.8,2,Palafoxia Lag.
+361,7,3.9,4.5,1,Xyris panacea L.C. Anderson & Kral
+400,4.2,3.5,3.6,0.7,Abutilon hypoleucum A. Gray
+911,5.4,3.6,2.2,0.4,Echinocereus pseudopectinatus (N.P. Taylor) N.P. Taylor
+94,4.8,3.8,4.9,2.1,Groutiella tomentosa (Hornsch.) Wijk & Margad.
+461,4.3,3.9,2.3,2.3,Thermopsis montana Nutt. var. hitchcockii (Isely) M. Mendenhall
+418,6.3,3.4,4.9,0.6,Eleutherococcus pentaphyllus (Siebold & Zucc.) Nakai
+716,4.2,4.1,6.5,1.8,Umbilicaria aprina Nyl.
+982,5.2,2.2,1.1,0.4,Crataegus vulsa Beadle
+275,5.9,3.9,6.2,2,Bryum muehlenbeckii Bruch & Schimp.
+649,6.2,2.5,1.6,0.5,Rhododendron canadense (L.) Torr.
+574,6.6,2.1,3.8,1.4,Chamaerops L.
+285,7.5,2.3,5.4,0.5,Chamaesyce deltoidea (Engelm. ex Chapm.) Small
+110,5.4,2.6,3.5,1.1,Grindelia lanceolata Nutt. var. texana (Scheele) Shinners
+38,4.3,3.4,1.2,1.9,Phlox caespitosa Nutt.
+186,7.2,2.2,4.3,1.4,Pholistoma auritum (Lindl.) Lilja var. auritum
+490,6.8,2.4,1.8,1.8,Epidendrum ciliare L.
+170,6.9,2,4.9,1.8,Spiraea thunbergii Siebold ex Blume
+484,5,2.4,3.7,0.6,Pterocarpus officinalis Jacq.
+768,4.3,3.4,2.3,0.7,Acalypha radians Torr.
+852,6.7,2.1,1.3,1.2,Silphium asteriscus L. var. angustatum A. Gray
+461,7.1,4.1,5.9,1.1,Fritillaria pinetorum Davidson
+13,7,2.6,2.9,1.6,Bolboschoenus glaucus (Lam.) S.G. Sm.
+980,4.7,2.5,2.7,1,Platystemon Benth.
+107,7,3.6,5.5,2.4,Horkeliella congdonis (Rydb.) Rydb.
+613,5.4,4.2,1.2,1.9,Agastache cana (Hook.) Wooton & Standl.
+97,4.7,4.1,2.5,0.5,Ancistrachne uncinulata (R. Br.) S.T. Blake
+882,5.5,3.6,1.1,0.7,Astragalus crassicarpus Nutt. var. trichocalyx (Nutt.) Barneby
+468,4.1,4,4.4,0.9,"Artemisia tridentata Nutt. ssp. ×bonnevillensis H. Garrison, L. Schultz, & E.D. McArthur"
+911,6.8,2.8,4.8,0.6,Oryza sativa L.
+978,4.8,2.9,2.4,1.5,Phyllanthus L.
+901,6.4,2.6,4.1,1.8,Ribes nevadense Kellogg var. jaegeri A. Berger
+82,5,4,5.1,0.2,Symphyotrichum turbinellum (Lindl.) G.L. Nesom
+655,6.8,4.3,2.3,0.9,Tinantia Scheidw.
+97,7.5,4.3,6.2,1.2,Angadenia berteroi (A. DC.) Miers
+382,4.7,3.3,3.3,1,Brigantiaea fuscolutea (Dicks.) R. Sant.
+439,6.2,2.3,1.3,2.1,Thelypteris hildae Proctor
+136,7,3.7,4.6,2.5,Graphis poitaeoides Nyl.
+80,7.8,2.1,5.6,0.2,Erigeron pulcherrimus A. Heller
+403,4.9,3.8,6.6,1.4,Aristida purpurascens Poir. var. tenuispica (Hitchc.) Allred
+129,6,3.7,6.5,0.8,Lolium ×hybridum Hausskn.
+668,5.1,2.7,6.7,1.7,Lycianthes (Dunal) Hassler
+324,6.7,3.9,4.5,2.5,Aristida purpurascens Poir. var. purpurascens
+209,7.7,3.3,5,1,Thermopsis rhombifolia (Nutt. ex Pursh) Nutt. ex Richardson
+766,5,3,4.5,1,Echinocereus engelmannii (Parry ex Engelm.) Lem. var. munzii (Parish) Pierce & Fosberg
+55,7.4,2.9,3.1,0.4,Liatris microcephala (Small) K. Schum.
+44,7.2,4.1,2.6,1.1,Porophyllum scoparium A. Gray
+302,5.3,4.4,5.6,1.5,Ranunculus harveyi (A. Gray) Britton
+319,7,2.9,1,1,Euphorbia esula L. var. uralensis (Fisch. ex Link) Dorn
+236,6.2,4.3,5.3,0.1,Echinochloa muricata (P. Beauv.) Fernald
+406,7.4,3.7,2.3,0.9,Lappula Moench
+589,5.6,2.5,1.1,0.6,Parmelia Ach.
+604,7.7,2.7,1.5,0.5,Dicranum elongatum Schleich. ex Schwägr.
+394,5.8,3.3,1.8,0.6,Plantago aristata Michx.
+157,6.3,3.8,2.2,1,Lipochaeta waimeaensis H. St. John
+957,5.4,3.7,2.3,0.6,Alternanthera maritima (Mart.) A. St.-Hil.
+979,5.8,2.5,6.3,1.8,Astragalus linifolius Osterh.
+177,4.6,3.6,6.9,2,Tortula bartramii Steere
+393,5,3.9,6.3,1.4,Lathyrus ochroleucus Hook.
+876,4.3,4,3.5,0.4,Coffea arabica L.
+162,5.8,3,3.7,0.8,Pholisma sonorae (Torr. ex A. Gray) Yatsk.
+42,6.7,4.3,2.9,1.7,Psilocarphus Nutt.
+125,6.9,3.7,1.7,2,Umbilicaria aprina Nyl.
+808,6.5,2.4,5.4,2.3,Ranunculus trilobus Desf.
+933,4.1,2.7,2.9,0.3,Bruchia vogesiaca Nestl. ex Schwägr.
+570,5,3.3,4.4,0.8,Phacelia gymnoclada Torr. ex S. Watson
+848,5.8,2.9,3.4,1.6,Glyceria pulchella (Nash) K. Schum.
+307,4.1,4,6.2,2.1,Bartramia ithyphylla Brid.
+932,7.6,2.2,3.1,2.2,Anemone caroliniana Walter
+658,6.4,4.3,3,0.3,Phacelia glandulosa Nutt.
+68,6.9,3.2,6.6,2.3,Lesquerella sessilis (S. Watson) Small
+857,4.5,2.4,3,0.2,Eriogonum ovalifolium Nutt. var. vineum (Small) Jeps.
+38,6.3,2.3,3.4,0.6,Auerodendron Urb.
+948,6.1,2.5,4.1,1.6,Anthemis secundiramea Biv.
+994,4.4,4,4,1.5,Allium geyeri S. Watson var. chatterleyi S.L. Welsh
+101,6.6,3.4,2.1,0.8,Melaleuca L.
+386,7.1,2.9,4.6,0.2,Melica smithii (Porter ex A. Gray) Vasey
+925,7.6,2.7,2,1.4,Oxytropis campestris (L.) DC. var. spicata Hook.
+968,6.4,3.5,3,2.3,Jasminum mesnyi Hance
+340,7.4,3,6.5,2.1,Hypogymnia farinacea Zopf
+319,4.1,3.4,4.6,1.7,Caesalpinia divergens Urb.
+913,4.7,4.2,6.1,1.5,Camellia sinensis (L.) Kuntze
+160,5.3,4,6.8,1.9,Pyrenula falsaria (Zahlbr.) R.C. Harris
+821,4.2,2.8,1.9,0.9,Xyris tennesseensis Kral
+882,4.2,3.8,1.1,0.5,Brosimum alicastrum Sw. ssp. alicastrum
+444,7.9,3,3.6,1.7,Sidalcea multifida Greene
+469,6.7,3.5,5.9,0.7,Carex schottii Dewey
+102,5.4,3.6,2.9,2.4,Mecardonia Ruiz & Pav.
+747,4,2.9,6.1,2.1,Lupinus argenteus Pursh ssp. spathulatus (Rydb.) Hess & D. Dunn
+229,6.9,2.1,1.2,0.9,Cyclamen L.
+193,5.3,3.5,1.4,0.8,Pinellia ternata (Thunb.) Makino ex Breitenbach
+821,6.9,3,4.6,2.2,Pyrrhospora quernea (Dicks.) Körb.
+177,4.9,3.5,3.3,2.1,Caloplaca cerina (Ehrh. ex Hedwig) Th. Fr.
+833,6.4,3.9,1.1,2.3,Iris giganticaerulea Small
+883,6.4,3,2.1,0.1,Lessingia nemaclada Greene var. nemaclada
+408,5.3,3.5,1.2,0.8,Plantago princeps Cham. & Schltdl. var. princeps
+88,4.7,3.6,1.9,1.5,Clitoria falcata Lam.
+356,4.7,2.4,5.1,1.2,Crataegus spatiosa Sarg.
+410,5.1,2.5,1.8,2,Balsamorhiza hookeri (Hook.) Nutt. var. lagocephala (Sharp) Cronquist
+401,5.8,2.2,3,0.6,Leioderma Nyl.
+568,4.2,2.5,4.9,1.8,Betula alleghaniensis Britton var. macrolepis (Fernald) Brayshaw
+750,7.3,2.5,4.2,2.3,Usnea longissima Ach.
+11,4.4,2.8,3.1,1,Dianella caerulea Sims
+428,4.7,3.9,5.9,0.1,Lecanora elmorei E.D. Rudolph
+839,6.9,2.6,1.7,0.9,Ludwigia simpsonii Chapm.
+574,6.2,2.5,2,1.3,Schistophragma intermedia (A. Gray) Pennell
+689,5.1,3,3.1,1.9,Lyellia aspera (I. Hagen & C.E.O. Jensen) Frye
+586,7.5,3.3,3.6,1.7,Polygonum polycnemoides Jaubert & Spach
+536,5.1,4.1,6.4,0.9,Lesquerella occidentalis S. Watson ssp. cinerascens (Maguire & A.H. Holmgren) Rollins & Shaw
+46,5.4,2.7,6.1,2.2,Sisyrinchium elmeri Greene
+96,5.1,3.8,5.3,0.2,Krigia caespitosa (Raf.) K.L. Chambers
+13,5.1,4.1,1.2,0.7,Hypocenomyce M. Choisy
+320,6.4,2.4,3.8,1.2,Caloplaca adnexa Vezda
+296,7.4,3.1,3.6,1,Ranunculus sardous Crantz
+279,5.1,3.9,3.2,0.9,Ramalina almquistii Vain.
+675,4.5,3.6,3.5,0.6,Symphyotrichum praealtum (Poir.) G.L. Nesom
+221,5.9,2.1,5.8,2.4,Galium serpenticum Dempster ssp. serpenticum
+642,4.9,2.3,5.5,1.8,Coronopus Zinn
+231,4.5,3.8,1.6,1.2,Lecidea ementiens Nyl.
+629,4.8,4.2,2.9,1.8,Vitis rotundifolia Michx. var. munsoniana (Simpson ex Munson) M.O. Moore
+793,5.1,2.8,2.3,0.8,Oxytropis nigrescens (Pall.) Fisch. ex DC. var. nigrescens
+186,5.1,3.6,4.9,1.7,Chiococca P. Br.
+177,7.1,2.5,1.7,2.3,Cyperus grayi Torr.
+151,5.9,3,2.8,0.6,Verrucaria cataleptoides (Nyl.) Nyl.
+878,7.6,4,3,1.3,Galium oreganum Britton
+791,7.8,4,2.7,0.8,Rinodina minutissima de Lesd.
+176,6.3,3.2,6.3,1.5,Gluta renghas L.
+953,6.3,2.4,5.9,0.4,Pandanus tomilensis Kaneh.
+760,5.7,3.8,3.9,0.9,Tephrosia noctiflora Bojer ex Baker
+714,4.1,4.1,4.3,2.5,Dimelaena weberi Sheard
+485,6.1,4.1,3.2,0.9,Metrosideros polymorpha Gaudich. var. dieteri J.W. Dawson & Stemmermann
+226,4.8,2.4,1.5,1.4,Zigadenus venenosus S. Watson var. venenosus
+147,5.4,3.5,2.8,1,Crataegus ×ninae-celottiae K.I. Chr. & T.A. Dickinson
+950,4.1,3.8,2.9,1.1,Tillandsia bartramii × fasciculata [unnamed hybrid]
+907,6.2,3.7,3.5,1.7,Aspicilia aliena (Zahlbr.) Oksner
+235,6,2.9,3.4,2.4,Cannabis sativa L.
+617,4.7,3.3,1.8,2,Erigeron acomanus Spellenb. & P. Knight
+440,6.6,3.8,6.3,2.3,Lithospermum caroliniense (Walter ex J.F. Gmel.) MacMill.
+579,5.7,3.5,2.9,0.9,Myrtus communis L.
+306,7,2.7,5.9,1.7,Schizaea fluminensis Miers ex Sturm
+956,7.6,3.6,3.5,0.4,Cylindropuntia ×congesta (Griffiths) Pinkava (pro sp.)
+782,5,2.4,2.9,1.1,Adenophorus Gaudich.
+347,4.6,3.9,4.5,1.8,Spiranthes laciniata (Small) Ames
+937,4.2,3.1,2.3,2,Geum rivale L.
+513,6.3,4,1.8,0.4,Saxifraga bryophora A. Gray var. bryophora
+230,4.4,4,5.2,0.7,Lactuca hirsuta Muhl. ex Nutt. var. sanguinea (Bigelow) Fernald
+329,5.1,4.1,4.4,0.9,Antennaria media Greene
+697,7.8,2.2,3.5,1.8,Thelypteris cordata (Fée) Proctor
+310,4.6,2.4,3,0.5,Ayenia pilosa Cristobal
+823,7.7,3,2,1,Fontinalis flaccida Renauld & Cardot
+220,7.8,3.8,1.5,0.3,Turnera diffusa Willd. ex Schult. var. aphrodisiaca (G.H. Ward) Urb.
+527,6.1,2.7,4.6,2.4,Berberis darwinii Hook.
+328,6.6,2.1,1.8,0.3,Smelowskia calycina (Stephan ex Willd.) C.A. Mey.
+889,5.5,3.5,6.7,2.5,Triumfetta rhomboidea Jacq.
+670,4.5,3.2,4.1,1.4,Calliergon cordifolium (Hedw.) Kindb.
+474,4.4,2.9,5.6,1.2,Stephanomeria fluminea Gottlieb
+847,4.3,3.5,2,0.4,Malephora crocea (Jacq.) Schwant.
+939,7.6,2.6,2.3,1.1,Lychnis chalcedonica L.
+406,7,2.4,4.7,2.1,Sclerocactus mesae-verdae (Boissev. & C. Davidson) L.D. Benson
+159,5.5,3,1.1,0.8,Asclepias asperula (Decne.) Woodson ssp. capricornu (Woodson) Woodson
+964,4.3,2.3,4.3,1.2,Muhlenbergia jonesii (Vasey) Hitchc.
+23,4.2,3.4,4.5,0.3,Ocimum tenuiflorum L.
+747,5.7,3.8,1.3,1.5,Symphyotrichum dumosum (L.) G.L. Nesom var. subulifolium (Torr. & A. Gray) G.L. Nesom
+442,5.6,2.9,3.1,1.2,Ampelopsis Michx.
+867,4.8,4,1.2,2.2,Melanelia glabra (Schaerer) Essl.
+875,4.3,3.5,6,1,Scirpoides Ség.
+235,6.2,2.3,2.7,2.2,Psora russellii (Tuck.) A. Schneid.
+385,6.4,4.1,5.5,0.7,Crataegus spatiosa Sarg.
+226,7.7,2.7,4.1,1.3,Polygonum bistorta L. var. bistorta
+909,7.8,2.1,3.6,1.6,Brassica parachinensis L.H. Bailey
+745,4.5,4.1,5.1,1.5,Dalea neomexicana (A. Gray) Cory var. neomexicana
+588,4.3,3.5,2.8,2,Croton nummulariifolius A. Rich.
+216,5.5,2.6,4.7,1.7,Rhododendron occidentale (Torr. & A. Gray) A. Gray var. occidentale
+422,7.9,2.8,2.4,0.5,Chamaebatiaria millefolium (Torr.) Maxim.
+512,6.1,4.2,3.2,1.5,Philodendron imbe Schott ex Endl.
+723,4.5,2.6,2.2,1.1,Tetraneuris argentea (A. Gray) Greene
+490,6.3,2.9,1.9,0.7,Rubus tomentosus Borkh. var. canescens Wirtg.
+573,7.2,2.2,3.3,0.7,Aristolochia trilobata L.
+113,4.2,3.3,2.3,1.4,Neoparrya lithophila Mathias
+171,4.2,4,4.2,1.4,Bartramia halleriana Hedw.
+780,7.7,2.7,2.2,1.7,Wolffia globosa (Roxb.) Hartog & Plas
+431,6.9,3.8,6.9,1.5,Cyrtandra ×waihoiensis H. St. John
+251,5.2,2,5.1,0.5,Liatris pycnostachya Michx.
+66,5.6,3.6,3,0.2,Camissonia guadalupensis (S. Watson) P.H. Raven ssp. clementina (P.H. Raven) P.H. Raven
+176,5.2,3.6,6.9,1.8,Valerianella florifera Shinners
+151,7.6,2.9,4.8,1.3,Styrax platanifolius Engelm. ssp. platanifolius
+517,7.2,3.7,2.5,1.7,Trichodon cylindricus (Hedw.) Schimp. var. oblongus (Lindb.) Podp.
+863,7.4,2.3,6.2,1.4,Nicotiana obtusifolia M. Martens & Galeotti var. obtusifolia
+861,4.4,2.7,6.3,0.1,Hypogymnia oceanica Goward
+423,5.1,2.8,2.3,0.5,Porotrichum vancouveriense (Kindb.) H.A. Crum
+262,7.5,3.2,2.1,0.4,Lantana reticulata Pers.
+560,4.4,4,2,1.7,Hygrophila R. Br.
+701,5.8,2.7,1.7,0.7,Urvillea Kunth
+132,7.6,3.2,2.3,1.5,Hesperolinon micranthum (A. Gray) Small
+401,6.7,2.8,6.6,1.4,Suaeda taxifolia (Standl.) Standl.
+76,7.1,3.2,1.3,0.3,Cystopteris Bernh.
+874,6.7,2.4,3,1.6,Cladonia atlantica A. Evans
+833,6.3,4,5,1.1,Boschniakia hookeri Walp.
+215,6.2,2.5,5.5,1.4,Oenothera pallida Lindl. ssp. runcinata (Engelm.) Munz & W. Klein
+948,5.7,3.2,4.8,0.1,Perideridia howellii (J.M. Coult. & Rose) Mathias
+844,4.2,4.2,4,0.5,Carex ×subimpressa Clokey (pro sp.)
+158,4.8,3.4,5.6,2.1,Carex lucorum Willd. ex Link var. austrolucorum J. Rettig
+324,7.9,4.1,4.9,0.3,Thelypteris angustifolia (Willd.) Proctor
+563,6.8,3.3,5.2,1.6,Allium canadense L. var. lavandulare (Bates) Ownbey & Aase
+307,4.1,2.2,5.6,1.2,Myrcia citrifolia (Aubl.) Urb.
+409,7.1,4,4.4,0.2,Entosthodon californicus (Sull. & Lesq.) H.A. Crum & L.E. Anderson
+515,7.3,4.3,4.6,0.5,Collema auriforme (With.) Coppins & J.R. Laundon
+549,4.8,4.1,3,2.2,Clermontia calophylla E. Wimm.
+313,4.2,3.7,2,2.3,Asplenium insiticium Brack.
+131,4.2,2.4,1.4,0.9,Equisetum scirpoides Michx.
+900,6.8,2.4,4.3,1.9,Sagittaria graminea Michx. var. chapmanii J.G. Sm.
+591,4.6,3,1.8,1.4,Halophila Thouars
+652,4.4,2.5,3.8,1.1,Monardella villosa Benth. ssp. globosa (Greene) Jokerst
+395,5.8,2.5,4.6,1.4,Usnea subfloridana Stirt.
+589,4.3,3.6,5.4,1.9,Carex pluriflora Hultén
+830,7.3,4.2,3.5,0.7,Thladiantha Bunge
+671,7.8,3.1,4,1.7,Clematis occidentalis (Hornem.) DC.
+155,6,2,5.7,0.2,Scabrethia W.A. Weber
+825,4.8,2.9,6.8,0.6,Rubus clarus L.H. Bailey
+579,4.9,2.2,6.9,0.1,Broussonetia papyrifera (L.) L'Hér. ex Vent.
+412,5.9,2.8,3.9,2.4,Phaseolus filiformis Benth.
+507,7.5,2.6,5.4,1.9,Beta nana Boiss. & Heldr.
+588,7.1,2.6,1.5,1.6,Abies lasiocarpa (Hook.) Nutt. var. lasiocarpa
+353,4.4,4.4,3.8,0.3,Helenium autumnale L. var. grandiflorum (Nutt.) Torr. & A. Gray
+845,5.5,2.2,6.3,1.3,Chrysophyllum cainito L.
+102,5.9,3.3,3.1,1,Ligularia dentata (A. Gray) H. Hara
+522,6.8,2.4,4.5,0.4,Pennellia longifolia (Benth.) Rollins
+85,6.9,2.2,1.6,2.1,Salvia subincisa Benth.
+242,6.4,3.1,3.6,1.4,Gagea villosa (M. Bieb.) Duby
+621,5.1,2.7,4.4,0.3,Lomatium quintuplex Schlessman & Constance
+623,5.9,3.6,2.4,1.3,Oxalis intermedia A. Rich.
+677,5.3,2.9,6.4,0.3,Leymus salinus (M.E. Jones) Á. Löve
+103,4.6,3,2,1.8,Scirpus cyperinus (L.) Kunth
+113,5.5,4.2,3.1,2.1,Lecanora confusa Almb.
+417,4.9,3.1,3,1.6,Salsola tragus L.
+780,6.5,2.7,4.4,1.7,Dicranella lindigiana (Hampe) Mitt.
+168,4.5,2.5,3.8,1.9,Ardisia solanacea Roxb.
+851,7.3,2.8,3.3,0.2,Campyloneurum latum T. Moore
+239,6.1,3.8,4.3,1.7,Primula cusickiana (A. Gray) A. Gray var. nevadensis (N.H. Holmgren) N.H. Holmgren & S. Kelso
+347,7,2.8,3,1,Phlox multiflora A. Nelson ssp. patula (A. Nelson) Wherry
+959,7.3,3.2,5,0.8,Evolvulus nuttallianus Schult.
+137,4.3,2.9,1.2,2.1,Gaillardia aestivalis (Walter) H. Rock var. austrotexana B.L. Turner
+351,6.8,2.9,5.3,1.6,Clarkia rhomboidea Douglas ex Hook.
+884,5.3,4.1,6.7,0.4,Corallorhiza bentleyi Freudenstein
+51,5.8,3.7,2.4,2.5,Linanthus demissus (A. Gray) Greene
+137,5.5,3.1,5,0.7,Randia aculeata L.
+741,6.2,4.1,3.1,0.2,Lindernia grandiflora Nutt.
+318,6.2,4.1,6.7,1.4,Ipomoea setosa Ker Gawl.
+974,4.5,2.7,5.2,2,Boschniakia C.A. Mey. ex Bong.
+559,4.6,4.2,2.3,1.3,Caloplaca agratum (Vain.) Zahlbr.
+981,5.7,3.7,2.1,2.4,Rubus trivialis Michx.
+465,5.4,3.3,6.8,0.9,Antirhea sintenisii Urb.
+54,4.7,2.8,3.2,1.4,Eriodictyon capitatum Eastw.
+469,5.8,2.5,3.3,0.5,Plantago aristata Michx.
+275,7.3,3.9,4.2,1,Caloplaca verruculifera (Vain.) Zahlbr.
+732,5.7,2.6,1.1,1.9,Centratherum punctatum Cass.
+990,4.7,2.9,1.7,0.3,Vallisneria gigantea Graebn.
+136,5.8,3.5,3.3,1.2,Penstemon discolor D.D. Keck
+290,5.3,3.1,4.6,1.2,Ranunculus platensis Spreng.
+173,5.4,2,1.2,0.7,Teramnus uncinatus (L.) Sw.
+614,7.1,2.5,2.1,1,Potentilla glandulosa Lindl. ssp. ashlandica (Greene) D.D. Keck
+947,7.6,2,1.6,1.4,Caragana aurantiaca Koehne
+487,7.9,2.7,1.3,1.1,Crataegus sargentii Beadle
+488,7,2.6,2.1,1,Astragalus wrightii A. Gray
+838,7.6,3.2,4.3,1.2,Gunnera petaloidea Gaudich.
+72,6.4,2.9,6.2,0.9,Lycoris radiata (L'Hér.) Herb.
+596,5.8,2.8,6.1,2.4,Abildgaardia ovata (Burm. f.) Kral
+209,5.9,3.5,5.4,2.4,Rumex ×confusus Simonkai
+352,5,2.7,2.8,2,Porophyllum ruderale (Jacq.) Cass.
+657,5.6,3.6,3.6,0.8,Porocyphus kenmorensis (Holl ex Nyl.) Henssen
+851,7.3,2.2,1.6,1.8,Fragaria vesca L. ssp. vesca
+469,7.7,3.2,5.8,1.3,Carex brunnescens (Pers.) Poir.
+933,7.1,3,6.1,2.2,Plaubelia Brid.
+999,4.2,3.6,2.9,0.3,Urtica dioica L. ssp. gracilis (Aiton) Seland.
+888,5,3.2,1.1,1.9,Solanum seaforthianum Andrews
+983,7.1,2.5,5.5,2.2,Cyanea maritae Lammers & H. Oppenh.
+849,6,3.1,2.1,1.1,Mucronea californica Benth.
+759,6.5,2.8,5.1,2.3,Erigeron pumilus Nutt. ssp. pumilus
+420,5,2.1,5.4,2.2,Lithospermum latifolium Michx.
+95,6.1,2.2,3.5,1.7,Medicago lupulina L.
+553,7,3.6,6.7,1.1,Eriogonum greggii Torr. & A. Gray
+251,7,3.5,4,0.5,Lupinus argenteus Pursh ssp. argenteus
+11,7.8,3.5,2.7,0.2,Fraxinus albicans Buckley
+131,7.3,3.8,5,1.7,Carex crebriflora Wiegand
+211,4.5,3.1,2,2.1,Actinostachys pennula (Sw.) Hook.
+331,7.2,4.4,4.2,0.8,Heuchera alba Rydb.
+726,6.2,3.2,3.7,0.4,Carex lenticularis Michx. var. lenticularis
+138,4.2,4.4,3.2,0.3,Peperomia glabella (Sw.) A. Dietr.
+847,5.2,2.8,5.2,2.5,"Moenchia erecta (L.) G. Gaertn., B. Mey. & Scherb."
+428,4.2,3.9,6.8,2,Pohlia sphagnicola (Bruch & Schimp.) Broth.
+814,6.2,2.2,2.3,1.8,Miconia affinis DC.
+298,4.7,2.5,4.2,1.7,Eriophorum russeolum Fr. ex Hartm.
+145,5.6,4.3,1.5,1.7,Artocarpus heterophyllus Lam.
+110,4.2,4.1,2.7,2.4,Viola helenae Forbes & Lydgate
+692,5.7,2.2,2.9,0.8,Cladium colocasia (L.) W. Wight
+468,5.2,4.1,6.6,1.1,Calicium viride Pers.
+878,5.9,3.1,3.8,1.2,Penstemon diphyllus Rydb.
+415,4.3,2.3,1.8,2,Spiranthes ×intermedia Ames
+404,5.2,2,6.8,0.5,Ludwigia octovalvis (Jacq.) P.H. Raven ssp. sessiliflora (Micheli) P.H. Raven
+833,7.8,3.1,2.8,1.5,Desmanthus virgatus (L.) Willd.
+523,5.9,3.3,6.3,1.3,Hyperphyscia adglutinata (Flörke) H. Mayrh. & Poelt
+626,6.1,4,1.4,2.1,Cyperus sanguinolentus Vahl
+304,5.2,2.2,2.6,2.4,Phlox mollis Wherry
+495,7.4,3.9,3.9,2.2,Neckeropsis Reichardt
+289,7.8,2.8,6.2,2.1,Eriocaulon longifolium Nees ex Kunth
+590,4.1,4.2,3.9,0.6,Dichanthelium acuminatum (Sw.) Gould & C.A. Clark
+392,7.5,4.3,6.4,0.9,Ptilagrostis kingii (Bol.) Barkworth
+134,5.7,2.3,6.4,0.1,Artemisia furcata M. Bieb. var. furcata
+682,7.3,2.4,4.8,0.1,Sphagnum mendocinum Sull. & Lesq.
+931,4.8,3.9,2.7,0.8,Piriqueta cistoides (L.) Griseb. ssp. cistoides
+293,5.5,2.5,6,1.2,Salix bicolor Fr.
+969,7.1,3.5,6.2,0.5,Pottia bryoides (Dicks.) Mitt.
+595,5.9,3.6,3.7,0.9,Thelypodium flexuosum B.L. Rob.
+721,7.8,2.5,4.9,2.4,Sisyrinchium iridifolium Kunth
+289,7.8,2.7,4.2,1.6,Perovskia Kar.
+281,7,2.8,4,1.6,Poa stebbinsii Soreng
+573,4.4,4.1,6.3,1.6,Festuca sororia Piper
+792,4.5,2.9,2.3,0.4,Horkelia californica Cham. & Schltdl. ssp. dissita (Crum) Ertter
+984,4.7,3.6,4.8,2.4,Grindelia nana Nutt.
+356,4.6,4.1,1.9,2.4,Agalinis maritima (Raf.) Raf.
+426,4.3,3.2,3.1,0.3,Quercus lobata Née
+496,5.3,3.4,1,1.7,Proserpinaca palustris L. var. amblyogona Fernald
+38,4.4,4.2,3.5,2.3,Agave parryi Engelm. ssp. parryi
+415,4.8,2.7,2.5,2.4,Pseudocrossidium hornschuchianum (Schultz) R.H. Zander
+284,7.1,3.2,2,0.9,Arthopyrenia planorbis (Ach.) Müll. Arg.
+906,6.2,2.2,6.1,2,Urochloa distachya (L.) T.Q. Nguyen
+554,6.4,3.1,4.1,0.4,Cryptantha clevelandii Greene var. florosa I.M. Johnst.
+723,4.4,3.4,3.1,1.3,Peccania arizonica (Tuck.) Herre
+386,7.8,2.1,1.6,1.1,"Miconia lanata (DC.) Triana, nom. inq."
+34,7.4,2.4,4.8,1.3,Draba breweri S. Watson var. cana (Rydb.) Rollins
+803,5.1,3.8,2.7,0.7,Liatris ohlingerae (S.F. Blake) B.L. Rob.
+932,4.2,2.3,6.2,2.3,Sphagnum tenerum Sull. & Lesq.
+178,6.1,2.4,1.3,1.7,Phoradendron leucarpum (Raf.) Reveal & M.C. Johnst.
+902,7.5,4,4.8,0.2,Agropyron cristatum (L.) Gaertn.
+509,6.9,3.7,6.5,0.7,Erythrodes hirtella (Sw.) Fawc. & Rendle
+112,7.7,3.4,3.2,0.8,Rosa ×harisonii Rivers
+577,6.3,2.1,1.1,1.7,Pedicularis bracteosa Benth. var. bracteosa
+452,7.8,2,3.4,0.3,Phacelia brachyloba (Benth.) A. Gray
+30,6.4,3,2.8,1.7,Pediomelum esculentum (Pursh) Rydb.
+615,7.1,2.5,3,2.1,Hyptis americana (Poit.) Briq.
+85,4.2,2.5,1.9,0.2,Myosoton aquaticum (L.) Moench
+271,6.8,3.2,5.7,1.2,Astragalus zionis M.E. Jones var. zionis
+499,5.2,3.7,4.1,1.4,Abronia nana S. Watson var. nana
+898,5.7,2.5,4.8,1.4,Erigeron peregrinus (Banks ex Pursh) Greene ssp. peregrinus var. dawsonii Greene
+69,7.1,3.3,5.8,1.8,Sapindus saponaria L. var. saponaria
+251,5.8,3.4,5,1.4,Daucus carota L. var. sativus Hoffm.
+492,7.2,3.7,4.4,2.2,Sabatia campestris Nutt.
+337,5.8,4.1,1.3,0.6,Saxifraga oppositifolia L.
+707,6,2.8,4.1,2.3,Platythelys sagraeanus (A. Rich.) Garay
+580,5.3,2.3,1.1,2.4,Townsendia jonesii (Beaman) Reveal
+81,5.5,2.5,3.4,1.2,Veronica serpyllifolia L. ssp. humifusa (Dicks.) Syme
+441,4,3.7,1.9,1.5,Fuchsia L.
+913,4.4,4,5.3,2.1,Perityle rupestris (A. Gray) Shinners var. rupestris
+379,7.5,3.8,2.1,1.6,Achnatherum nelsonii (Scribn.) Barkworth ssp. dorei (Barkworth & Maze) Barkworth
+650,6.2,3.1,4.2,0.2,Logfia californica (Nutt.) Holub
+237,6.2,3.5,1.5,0.7,Excoecaria agallocha L.
+742,6.4,2.9,4.5,1,Arthonia rubella (Fée) Nyl.
+442,4.5,2.6,5.1,1.3,Lepidium dictyotum A. Gray var. dictyotum
+961,5.4,3.6,4.5,2.4,Cleomella brevipes S. Watson
+585,4.1,3.1,6.6,2,Heuchera pilosissima Fisch. & C.A. Mey. var. pilosissima
+584,4.4,2.5,4.3,2.3,Limnocharis Humb. & Bonpl.
+876,4.8,3,1.2,1.5,Horkelia bolanderi A. Gray
+480,5,2,2.1,2.3,Hesperocyparis arizonica (Greene) Bartel
+327,6.3,4,1.2,2.4,Clathroporina Müll. Arg.
+752,6,2,1.3,0.6,Euonymus nanus M. Bieb.
+348,4.8,4.4,1.2,0.6,Ionactis elegans (Soreng & Spellenb.) G.L. Nesom
+218,6.3,3.6,4.7,1,Viola ×subaffinis House
+901,4.3,2.3,2.8,2.1,Pennisetum glaucum (L.) R. Br.
+507,6.3,3.2,1.1,0.7,Hypericum tetrapetalum Lam.
+985,7.3,2.6,1.8,1.3,Balsamorhiza hookeri (Hook.) Nutt. var. hirsuta (Nutt.) A. Nelson
+378,6.2,4.3,5.4,2.3,Agrostis elliottiana Schult.
+806,6.1,3.3,2.4,0.8,Brachypodium P. Beauv.
+809,7.4,3.1,5.5,1.1,Opuntia sanguinea Proctor
+899,7.4,4.3,5.6,1,Castilleja lanata A. Gray ssp. hololeuca (Greene) T.I. Chuang & Heckard
+206,7.4,4.4,2.2,0.9,Pharus parvifolius Nash
+904,5.8,3.5,5.2,0.5,Physostegia ledinghamii (B. Boivin) Cantino
+480,5.7,2.3,3.9,1.2,Tetraplasandra oahuensis (A. Gray) Harms
+442,4.5,3.5,2.9,2.4,Thymophylla pentachaeta (DC.) Small var. belenidium (DC.) Strother
+352,5.2,2.3,1.7,2,Roellia roellii (Broth.) Andrews ex H.A. Crum
+677,5.5,4,4.5,0.2,Penstemon caespitosus Nutt. ex A. Gray var. perbrevis (Pennell) N.H. Holmgren
+894,4.8,3.1,3.7,1.6,Hypericum ascyron L.
+206,5.2,4,2.4,1.3,Aliciella hutchinsifolia (Rydb.) J.M. Porter
+746,4.4,4,2.2,1.9,Draba aleutica Ekman ex Hultén
+979,6.3,3.9,5.8,0.7,Nesoluma polynesicum (Hillebr.) Baill.
+233,5.8,2.2,4.9,1.5,Rubus alaskensis L.H. Bailey
+374,5.3,3.2,6.2,1.8,×Dupoa J. Cay. & S.J. Darbyshire
+262,6.1,3.5,3.9,0.3,Elymus ×yukonensis (Scribn. & Merr.) Á. Löve (pro sp.)
+212,5.9,2.1,1.4,1.3,Vulpia octoflora (Walter) Rydb. var. hirtella (Piper) Henr.
+751,5.1,3.2,5.8,0.3,Rhexia virginica L.
+953,5.9,3.8,6.4,1.3,Acalypha gracilens A. Gray
+161,4.5,2,1.9,0.7,Dryas integrifolia Vahl ssp. integrifolia
+421,4,2.5,2.6,0.4,Rhynchosia swartzii (Vail) Urb.
+62,7,2.5,3.4,1.2,Polystichum hillebrandii Carruthers
+219,7.1,2.2,3.4,0.3,Eriogonum exilifolium Reveal
+193,6,4,1.9,0.5,Chamaesyce skottsbergii (Sherff) Croizat & O. Deg.
+167,7.5,3.7,1.9,0.3,Lomatium tarantuloides Darrach & Hinchliff
+404,7.9,2.9,2.7,0.4,Lecidoma demissum (Rutstr.) Gotth. Schneid. & Hertel
+551,4.1,3.1,1.7,1,Clusia minor L.
+951,5.3,4.2,3.2,1.6,Castilla ulei Warb.
+997,7,3.5,3.2,0.3,Diospyros hillebrandii (Seem.) Fosberg
+610,6.8,2.7,2.1,1.7,Cassia grandis L. f.
+322,6.2,4.1,5.7,0.9,Dichaetophora campestris A. Gray
+960,5,2.3,1.7,2.2,"Festuca arvernensis Auquier, Kerguélen & Markgr.-Dannenb."
+42,7.6,3.3,5.3,1.8,Bryum pyriferum Crundw. & H. Whitehouse
+773,4.2,2.8,6.2,0.2,Cladonia P. Browne
+772,7.7,2.8,6.1,0.5,Danthonia epilis Scribn.
+377,4.1,2.8,4.8,0.9,Saxifraga hirculus L.
+362,5.1,2.7,2.7,2.5,Ribes oxyacanthoides L. ssp. setosum (Lindl.) Sinnott
+55,4.9,3.1,2.4,1.4,Ribes inerme Rydb. var. inerme
+209,5.5,2.1,2.6,0.6,Malus angustifolia (Aiton) Michx. var. puberula Rehder
+498,5.8,2.9,1,2.1,Mimulus hymenophyllus R.J. Meinke
+899,6.4,4.2,2.2,1,Lasiacis grisebachii (Nash) Hitchc.
+112,5,2.6,5,2,Astragalus iodopetalus (Rydb.) Barneby
+606,5.3,3.8,4.8,2,Sporopodium Mont.
+627,4.3,4.3,6.2,2.4,Gaudinia P. Beauv.
+898,7.2,2.9,6.3,1.9,Malacothrix squalida Greene
+10,7,3.8,2.3,0.9,Tetraneuris ivesiana Greene
+658,6.2,3.1,4.7,0.8,Lythrum thymifolia L.
+415,5.9,3.1,3.4,0.5,Escobaria vivipara (Nutt.) Buxbaum var. radiosa (Engelm.) D.R. Hunt
+489,7.2,3.1,1.4,2.3,Lupinus congdonii (C.P. Sm.) D. Dunn
+650,4.9,2.3,5.5,2.5,Melaleuca uncinata R. Br.
+936,4.6,2.8,2.1,0.7,Phyllopsora confusa Swinscow & Krog
+807,4.2,4.2,3.6,2.3,Logfia Cass.
+40,6.5,4.3,6.1,2.2,Penstemon ophianthus Pennell
+65,7.7,3.7,5.9,0.3,Phacelia palmeri Torr. ex S. Watson
+859,4.9,2.3,1.5,1.7,Diplotomma chlorophaeum (Hepp ex Leight.) Szat.
+739,5.1,3.6,3.9,0.7,Senna multiglandulosa (Jacq.) Irwin & Barneby
+253,7.5,2.7,6.1,1.6,Ceanothus greggii A. Gray var. vestitus (Greene) McMinn
+303,7.4,2.3,1.9,1.8,Dudleya attenuata (S. Watson) Moran
+784,4.8,2.2,4.8,1.5,Quercus toumeyi Sarg.
+674,6.1,3.2,1.3,1.7,Arctostaphylos manzanita Parry ssp. laevigata (Eastw.) Munz
+475,7.6,3.7,1.5,1.2,Peperomia sintenisii C. DC.
+304,7.4,4.3,6.3,2,Syrrhopodon texanus Sull.
+436,4.3,2.3,6.3,2.4,Besseya oblongifolia Pennell
+516,5.1,3.4,2.3,0.5,Eriogonum siskiyouense Small
+45,6.5,3.3,4.7,2.2,Bifora americana Benth. & Hook. f. ex S. Watson
+184,7.7,2.1,6.6,1.6,Astragalus kentrophyta A. Gray var. ungulatus M.E. Jones
+586,6.1,2.3,4.4,1.3,Oxytropis lagopus Nutt. var. lagopus
+713,5,3.3,3.3,1.5,Lepanthopsis melanantha (Rchb. f.) Ames
+759,6.2,2.5,3,1.6,Viola tripartita Elliott
+184,5.8,4.3,4.1,1.4,Carex lupuliformis Sartwell ex Dewey
+921,6.2,3.1,1.9,2.1,Galium sparsiflorum W. Wight ssp. sparsiflorum
+60,7.5,3.5,2,2.4,Dalea grayi (Vail) L.O. Williams
+554,6.9,2.3,4.7,1.8,Platismatia glauca (L.) W.L. Culb. & C.F. Culb.
+921,6.6,2.7,3.6,1.1,Arctostaphylos nummularia A. Gray
+841,6.1,3.2,4.4,1.7,Eryngium maritimum L.
+522,7.9,2.9,6.3,0.6,Loeskypnum wickesiae (Grout) Tuom.
+788,6,4.1,4.9,1.6,Rhexia nashii Small
+290,4.4,4.4,3.2,0.3,Betula nana L. ssp. exilis (Sukaczev) Hultén
+460,7.8,2.2,1.5,1.2,Lachnanthes Elliott
+139,7.9,3.5,1.9,0.5,Astragalus newberryi A. Gray var. newberryi
+712,6.7,3.5,1.9,0.7,Packera ogotorukensis (Packer) Á. Löve & D. Löve
+114,7,4.2,5.2,2.3,Heuchera cylindrica Douglas ex Hook. var. alpina Sw.
+316,6.2,3.1,2.1,2,Poa sierrae J.T. Howell
+250,6.8,3.4,1.5,0.9,Penstemon versicolor Pennell
+725,4.8,4.2,5.3,0.7,Petiveria alliacea L.
+425,4.6,3.7,5.3,0.5,Lecanora subcarnea (Lilj.) Ach.
+437,7.8,3.1,6.2,2.5,Hepatica nobilis Schreb. var. acuta (Pursh) Steyerm.
+197,4.5,2.3,5.9,0.3,Guibourtia coleosperma (Benth.) J. Léonard
+469,7.7,3.3,6.9,1.2,Vicia benghalensis L.
+65,6.7,3.2,4.5,0.3,Dubautia kenwoodii G.D. Carr
+335,7.5,2.5,6.8,1.5,Potentilla flabellifolia Hook. ex Torr. & A. Gray
+407,4.4,4,3.2,1.9,Dudleya pulverulenta (Nutt.) Britton & Rose ssp. arizonica (Rose) Moran
+196,7.8,3.3,5.5,0.8,Veronica cymbalaria Bodard
+923,7.1,2.2,5.9,0.8,"Calliscirpus C.N. Gilmour, J.R. Starr & Naczi"
+777,6.3,4.2,3.8,0.2,Erigeron miser A. Gray
+457,7.6,3.7,2.2,0.7,Asclepias cryptoceras S. Watson ssp. davisii (Woodson) Woodson
+433,5.9,3.6,1.5,2.5,Mollugo gracillima Andersson
+980,5.4,3.7,4.1,1.7,Dryas octopetala L. ssp. hookeriana (Juz.) Hultén
+45,5.7,3.3,6.8,0.8,Packera dimorphophylla (Greene) W.A. Weber & Á. Löve var. paysonii (T.M. Barkley) D.K. Trock & T.M. Barkley
+749,7.1,4.1,1.9,0.2,Heterodermia albicans (Pers.) Swinscow & Krog
+265,5.7,3.7,4,1.2,Leucophysalis nana (A. Gray) Averett
+171,4.2,3.9,2.9,0.2,Salazaria mexicana Torr.
+498,5.3,3.1,3.1,0.5,Stanleya Nutt.
+317,7.9,2.7,6,1.5,Trillium simile Gleason
+865,4.9,3.8,5.2,0.1,Crateva L.
+368,7.8,2.8,6.6,1.4,Cyperus hillebrandii Boeckeler var. decipiens (Hillebr.) Kük.
+879,5.2,3.1,1.6,0.7,Euphorbia cyparissias L.
+304,4.1,2.8,3,2.1,Allium howellii Eastw. var. clokeyi Ownbey & Aase
+883,5.1,2.5,6.8,2.4,Convolvulus althaeoides L.
+467,5.4,3.4,1.2,0.6,Eucalyptus bridgesiana R. Baker
+642,6.8,3.7,5.6,0.4,Halesia tetraptera Ellis var. monticola (Rehder) Reveal & Seldin
+260,5.6,3.7,3,1.6,Amphiachyris (A. DC.) Nutt.
+487,7.2,3,5.9,1.9,Stictocardia tiliifolia (Desr.) Hallier f.
+520,4.2,2.7,6.7,0.5,Astragalus callithrix Barneby
+415,6,3.1,5.5,1.9,Eryngium armatum (S. Watson) J.M. Coult. & Rose
+153,6.6,4.2,6.3,0.2,Delphinium hansenii (Greene) Greene ssp. hansenii
+591,4.3,4.2,4.8,0.6,Potentilla plattensis Nutt.
+55,7.3,2.7,5,1.9,Draba norvegica Gunnerus
+358,6.7,3.5,5.8,1.6,Inula hookeri C.B. Clarke
+86,7,2.2,4.3,2.2,Ipomoea purga (Wender.) Hayne
+100,7.1,2.6,2.3,1.2,Hymenopappus artemisiifolius DC. var. riograndensis B.L. Turner
+619,7.8,2.5,6.5,0.5,Trichodon Schimp.
+810,4.1,3.8,6.6,0.6,Townsendia alpigena Piper var. minima (Eastw.) Dorn
+123,6.7,3.9,6,1.7,Ipomoea hederacea Jacq.
+866,5.6,2.2,5.3,2,Tabernaemontana citrifolia L.
+39,5.5,2.2,5.6,2.1,Cordylanthus rigidus (Benth.) Jeps. ssp. littoralis (Ferris) T.I. Chuang & Heckard
+27,4.3,3.4,3.7,0.4,Cymopterus Raf.
+552,5.1,4,1.2,0.3,Labordia waialealae Wawra
+914,6,4.1,6.6,1.3,Ranunculus macauleyi A. Gray var. brandegeei L.D. Benson
+674,4.6,2.9,1.2,0.3,Sedum lanceolatum Torr. ssp. subalpinum (Blank.) R.T. Clausen
+80,4.9,3.2,6.5,1.1,Spermacoce exilis (L.O. Williams) C. Adams
+138,6.3,2.3,5.9,1.8,Lupinus lyallii A. Gray ssp. lyallii var. macroflorus Cox
+828,6.2,3.9,4.9,1.4,Digitalis purpurea L.
+115,4.6,3.5,1.9,0.4,Scutellaria multiglandulosa (Kearney) Small ex Harper
+908,6.2,3,3.4,0.1,Asplenium haleakalense W.H. Wagner
+221,7.7,4.1,1.1,1.6,Robinia viscosa Vent. var. viscosa
+570,6.5,3.8,1.8,1,Chenopodium carnosulum Moq. var. patagonicum (Phil.) Wahl
+29,7.7,2.6,4.1,1.9,Pectis elongata Kunth var. floribunda (A. Rich.) Keil
+128,4.8,3.8,5.8,1.8,Eucnide bartonioides Zucc. var. bartonioides
+761,6.3,2,1.6,2.4,Trillium L.
+979,7.2,2.9,6.6,0.9,Tabebuia heterophylla (DC.) Britton
+321,5.8,3.6,1.8,0.6,Arisaema triphyllum (L.) Schott ssp. pusillum (Peck) Huttleston
+489,6.4,4.1,3,0.1,Hygroamblystegium fluviatile (Hedw.) Loeske
+660,6.6,3.6,5.6,0.6,Philoxerus R. Br.
+28,6.3,2.8,2.6,0.4,Lotus dendroideus (Greene) Greene var. veatchii (Greene) Isely
+665,6.5,3.4,1.3,0.6,Aloina aloides (Koch ex Schultz) Kindb. var. ambigua (Bruch & Schimp.) Craig
+407,5.3,3.8,5.3,0.5,Xylorhiza tortifolia (Torr. & A. Gray) Greene var. tortifolia
+544,7.2,4.2,3.3,1.7,Kalmiopsis fragrans Meinke & Kaye
+355,6.9,2.1,1.2,2.4,Astragalus lentiginosus Douglas ex Hook. var. floribundus A. Gray
+345,7,2.7,3.8,1.5,Leptogium phyllocarpum (Pers.) Mont.
+280,4.6,3.4,1.3,1.8,Lotus procumbens (Greene) Greene var. jepsonii (Ottley) Ottley
+441,7.4,2.9,2.3,1.5,Acacia schaffneri (S. Watson) F.J. Herm. var. bravoensis Isely
+300,6.9,3.3,6.8,1.5,Nymphoides humboldtiana (Kunth) Kuntze
+511,6.4,4.2,6.9,1.6,Ramalina linearis (Sw.) Ach.
+834,4.2,3.3,3.4,1.7,Glandularia quandrangulata (A. Heller) Umber
+765,4.5,4.3,5.3,1,Waldsteinia fragarioides (Michx.) Tratt. ssp. doniana (Tratt.) Teppner
+648,7,3.8,2.4,0.4,Carex ×caesariensis Mack. (pro sp.)
+675,7.5,2.7,5.1,1.9,Montia fontana L.
+626,4,2.2,4.6,0.2,Funastrum hirtellum (A. Gray) Schltr.
+531,6.5,3.1,5.3,0.9,Lobelia kalmii L.
+515,4.1,4.2,1.4,1.4,Ipomopsis spicata (Nutt.) V.E. Grant
+472,6.9,4.2,2,0.9,Astragalus austiniae A. Gray ex W.H. Brewer & S. Watson
+246,6.6,4.3,2.1,2,Arctostaphylos ×jepsonii Eastw. (pro sp.)
+102,5.6,3.1,6,0.4,Allium lemmonii S. Watson
+619,6.3,4,4.2,0.6,Cryptantha mohavensis (Greene) Greene
+818,6.5,3.6,5.1,2,Eriogonum brevicaule Nutt.
+532,4.1,3.6,2.4,1.9,Elaphoglossum martinicense (Desv.) T. Moore
+45,4.1,3.8,2.8,2.3,Phacelia barnebyana J.T. Howell
+86,4.1,2.9,3.6,1.8,Rumex tomentellus Rech. f.
+868,4.5,3.2,1.5,1.5,Usnea vainioi Mot.
+133,5.5,3.2,6,1.1,Dysphania cristata (F. Muell.) Mosyakin & Clemants
+275,4.4,4.2,5,1.7,Sagraea portoricensis (Alain) Alain
+376,5.5,3.1,3.6,0.4,Lupinus lyallii A. Gray ssp. lyallii var. danaus (A. Gray) S. Watson
+672,5.4,3.4,2.6,2.4,Emmenanthe penduliflora Benth. var. penduliflora
+124,6.9,2.5,2.5,0.4,Rumex cristatus DC.
+246,6.7,3.9,5.9,1.2,Chromolaena odorata (L.) R.M. King & H. Rob.
+797,7.1,2.8,6.1,0.6,Krascheninnikovia Guldenstaedt
+774,5,2.8,5.9,1.3,Arctostaphylos glandulosa Eastw. ssp. adamsii (Munz) Munz
+161,6.7,3.4,6.5,1.1,Henriettea membranifolia (Cogn.) Alain
+787,4.1,2.4,5,1.8,Carex lenticularis Michx.
+228,4.7,4.1,6.1,0.4,Rimelia Hale & Fletcher
+960,4.7,2.7,4.1,2.4,Oxytropis mertensiana Turcz.
+997,6.1,3.2,3.3,1.8,Candelina Poelt
+560,7.5,2.3,1.7,0.4,Rubus odoratus L. var. columbianus Millsp.
+978,7.1,4.2,2,0.3,Arthonia tetramera (Stizenb.) Hasse
+79,5.8,2.8,3.2,1.8,Eucalyptus astringens (Maiden) Maiden
+159,4.7,3.8,5.7,0.4,Heuchera maxima Greene
+308,6.1,3.4,1.7,1.8,Claytonia cordifolia S. Watson
+611,4.9,4.2,4.7,2.3,Cyrtandra ×laevis H. St. John (pro sp.)
+372,7.2,2.5,2.8,1.3,Silene laciniata Cav. ssp. major C.L. Hitchc. & Maguire var. angustifolia C.L. Hitchc. & Maguire
+163,5.9,3.4,5.1,2,Silene latifolia Poir.
+565,6,2.7,4.3,2.5,Physcomitrella Bruch & Schimp.
+960,6.9,3,2,0.4,Cnidoscolus aconitifolius (Mill.) I.M. Johnst.
+853,6.7,2.1,3.4,0.6,Astragalus ravenii Barneby
+798,7.8,3.6,2.2,1.4,Bidens macrocarpa (A. Gray) Sherff
+15,7.1,3.5,2,0.9,Mycomicrothelia willeyana (Müll. Arg.) D. Hawksw.
+983,7.4,2.9,4.1,0.2,Symphyotrichum subulatum (Michx.) G.L. Nesom
+126,7.9,3.9,2.2,0.5,Carex glareosa Schkuhr ex Wahlenb. ssp. glareosa var. glareosa
+784,4.9,3.6,2.9,2.4,Dermatocarpon rivulorum (Arnold) Dalla Torre & Sarnth.
+432,6.8,3.5,1.4,1.7,Carex rupestris All.
+610,7.9,3.3,6.3,1.9,Salicornia maritima Wolff & Jefferies
+346,4.8,2.4,3.4,1,Paederia L.
+633,4.4,3.1,1.5,1.8,Sporobolus neglectus Nash
+208,6.2,4.2,5.3,0.2,Triticum militinae Zhuk. & Migush.
+432,5.3,2.7,2.4,0.9,Calymperes afzelii Sw.
+749,7.4,3.2,4.1,2.4,Ochrolechia subplicans (Nyl.) Brodo ssp. hultenii (Erichsen) Brodo
+575,5.6,3.1,3.5,2.1,Argyranthemum foeniculum (Willd.) Sch. Bip.
+643,6.9,4.3,6.6,0.2,Boykinia major A. Gray
+349,5.3,3.1,6.8,0.9,Nemacaulis Nutt.
+822,6.5,2.5,6.5,1.4,Andropogon gyrans Ashe var. stenophyllus (Hack.) C.S. Campbell
+348,4.5,4.2,5.3,2.5,Campylocentrum pygmaeum Cogn.
+99,4.1,2.2,5.4,0.7,Acacia genistifolia Link
+667,7.4,3.4,6.8,1.2,Heterotheca subaxillaris (Lam.) Britton & Rusby
+876,5,3,1.3,0.7,Plectocarpon Fée
+976,4.9,3.7,4.6,1.8,Plagiobothrys collinus (Phil.) I.M. Johnst. var. californicus (A. Gray) L.C. Higgins
+6,4.5,2,3.6,1.8,Symphoricarpos acutus (A. Gray) Dieck
+119,5.3,3.4,3.6,1.2,Alyssum szovitsianum Fisch. & C.A. Mey.
+32,5.3,3.5,3.9,2.3,Sphaerellothecium contextum Triebel
+766,5.7,3.5,2.7,2.4,Bebbia juncea (Benth.) Greene var. aspera (Benth.) Greene
+594,7.6,3.3,6.1,0.6,Cyrilla Garden ex L.
+786,7.9,2.3,3.4,1.4,Sapium Jacq.
+317,5.2,2.5,6.7,1.6,Trigonella L.
+979,7.3,4.2,6.2,2.2,Dithyrea californica Harv.
+353,5.1,4.3,5.3,0.3,Buellia retrovertens Tuck.
+447,6.5,3.7,3.8,1.8,Cyperus trachysanthos Hook. & Arn.
+449,7.8,3.7,2.8,2.1,Pickeringia montana Nutt. ex Torr. & A. Gray
+364,7.3,3.3,5.7,0.6,Teesdalia coronopifolia (Bergeret) Thell.
+711,5.1,2.2,1.1,0.4,Juncus phaeocephalus Engelm. var. phaeocephalus
+805,7.7,3.7,2.8,1.8,Lecidea furvonigrans (Tuck.) Zahlbr.
+145,6.9,4.3,6.7,1.4,Myelochroa metarevoluta (Asah.) Elix & Hale
+115,4.5,3.5,5.1,2.5,Phlox drummondii Hook. ssp. tharpii (Whitehouse) Wherry
+205,6,4.1,5.4,1.5,Eriogonum microthecum Nutt. var. simpsonii (Benth.) Reveal
+105,7.3,3.3,3.9,0.5,Cucurbita pepo L. var. ovifera (L.) Harz
+468,6.5,3.7,2.6,2.2,Chamaecrista absus (L.) Irwin & Barneby var. absus (L.) Irwin & Barneby [excluded]
+409,4.3,4.2,4.9,2.2,Vaccinium macrocarpon Aiton
+201,5.9,2.4,3.9,1,Calyptocarpus Less.
+122,7.3,3.7,4.8,1,Lyonothamnus A. Gray
+385,5.2,2.8,4.8,0.6,Rimularia badioatra (Krempelh.) Hertel & Rambold
+886,7.3,3,3.8,0.8,Chamerion angustifolium (L.) Holub ssp. circumvagum (Mosquin) Hoch
+310,7.8,3.1,4.4,2.4,Liatris squarrosa (L.) Michx.
+879,4.6,4.2,4.5,1.1,Hedychium gardnerianum Shepard ex Ker Gawl.
+885,7.1,2.7,6.3,1.2,Ageratum L.
+881,6.8,2.2,6.6,1.1,Holocarpha Greene
+95,7.4,3.4,2.4,2.3,Gochnatia hypoleuca (DC.) A. Gray
+235,6.8,3,2.3,2.3,Mimulus johnstonii A.L. Grant
+195,5.8,4.1,5.8,0.6,Orthotrichum speciosum Nees
+736,5.1,2.2,2.1,1.6,Datura discolor Bernh.
+700,7.8,3.2,3.6,0.4,Besseya ritteriana (Eastw.) Rydb.
+765,7.5,2.5,5.6,0.1,Pleurothallis domingensis Cogn.
+654,7.8,3.1,1,1.9,Astragalus lentiginosus Douglas ex Hook. var. ambiguus Barneby
+768,7.8,3.9,2.2,0.5,Kiaeria starkei (F. Weber & D. Mohr) I. Hagen
+803,6.2,2.1,1.2,1.2,Pleurochaete squarrosa (Brid.) Lindb.
+998,6.2,3.5,4.3,2,Phacelia austromontana J.T. Howell
+863,6.2,4.1,6.8,0.6,Mimulus eastwoodiae Rydb.
+638,4.5,4,1.7,2.4,Rubus gnarus L.H. Bailey
+366,5.5,3.2,4.8,1.9,Elaphoglossum eggersii (Baker) Christ
+318,6.1,4.3,6.3,0.7,Morella cerifera (L.) Small
+579,7.4,3.4,5.2,1.3,Waldsteinia Willd.
+906,4.6,3.6,3.8,1.6,Rhodanthe Lindl.
+628,7.8,3.2,2.6,1.5,Euthamia gymnospermoides Greene
+954,7.7,3.6,3.4,0.5,Encyclia gravida (Lindl.) Schltr.
+816,6.5,3.7,5.6,0.6,Lichina confinis (O.F. Müll.) C. Agardh
+524,4.6,3.2,6.2,1.8,Mimosa turneri Barneby
+824,6.4,3.8,4.8,1.2,Ipomopsis tenuifolia (A. Gray) V.E. Grant
+648,6.3,3,6.3,2.2,Hymenophyllum tayloriae Farrar & Raine
+240,7.2,4.4,1.8,2.2,Stereocaulon botryosum Ach.
+760,4.3,3.8,6.7,1,Equisetum hyemale L.
+420,5.6,3.9,1.7,2,Draba gredinii Ekm.
+143,6.4,4,2.7,0.4,Silene lemmonii S. Watson
+44,4.7,2.5,5.6,1.9,Cordia globosa (Jacq.) Kunth
+33,5.4,4.3,6,2,Tolumnia variegata (Sw.) G.J. Braem
+356,5,3.2,6.9,1.3,Lonchocarpus utilis A.C. Sm.
+621,5.9,2.5,6.3,1.7,Catapyrenium plumbeum (de Lesd.) J.W. Thomson
+30,5.4,4.1,4.3,0.4,Anthemis secundiramea Biv.
+761,4.2,2.2,2.3,0.3,Erythronium americanum Ker Gawl.
+94,7.5,2.6,5.2,2.5,Ranunculus alismifolius Geyer ex Benth. var. alismifolius
+506,5.7,2,1.5,0.3,Polygala curtissii A. Gray
+718,4.4,3.1,2.7,0.3,Marsilea hirsuta R. Br.
+252,5.5,2.5,1.1,1.5,Zephyranthes candida (Lindl.) Herb.
+208,5.8,3.8,5.9,0.2,Linaria pinifolia (Poir.) Thell.
+776,7.6,3.9,5.1,0.5,Prunus pensylvanica L. f. var. pensylvanica
+595,6.5,2.9,3.2,0.9,Luzula divaricata S. Watson
+733,7.6,3.3,4.1,1,Miconia tetrastoma Naud.
+554,5.8,3.9,1.3,1.8,Arctostaphylos tomentosa (Pursh) Lindl. ssp. bracteosa (DC.) J.E. Adams
+626,5.2,2.7,4.1,2.5,Lasthenia burkei (Greene) Greene
+389,7,3.9,5.1,1.4,Oxytropis czukotica Jurtzev
+249,6.4,3.6,2.1,1.1,Turricula J.F. Macbr.
+284,4.1,3.4,3.1,1.3,Leptosiphon minimus (H. Mason) R. Battaglia
+63,6.8,2.2,1.2,1.1,Oxytenanthera Munro
+583,4.3,2.4,4.9,2,Trifolium eriocephalum Nutt. ssp. eriocephalum
+325,4.8,2.1,2.9,1.5,Psorothamnus polydenius (Torr. ex S. Watson) Rydb.
+325,6.8,3.5,1.7,0.3,Draba helleriana Greene var. bifurcata C.L. Hitchc.
+952,5.3,4.4,5.1,1.4,Hypotrachyna sinuosa (Sm.) Hale
+192,7.2,3.7,4.2,0.9,Lotus angustissimus L.
+863,7.8,2.4,3.7,1.3,Sagina decumbens (Elliott) Torr. & A. Gray
+146,7,3.9,3.1,1.6,Typha latifolia L.
+577,6.4,3.4,2,2,Solidago porteri Small
+217,5.4,2.5,5.8,1.6,Sisymbrium officinale (L.) Scop.
+952,4.4,3.3,6.3,1.5,"Notholithocarpus P.S. Manos, C.H. Cannon, & S.H. Oh"
+703,4.4,4,2.3,0.4,Juncus tiehmii Ertter
+721,5.4,3.7,5.2,1.4,Arthonia sexlocularis Zahlbr.
+922,6.8,3.5,6.7,2.3,Lithospermum parksii I.M. Johnst.
+212,5.8,2.5,4.1,2.1,Philonotis uncinata (Schwägr.) Brid.
+816,6.5,3.5,2.3,1.2,Clermontia persicifolia Gaudich.
+183,6.9,2.2,2.3,0.6,Sphaeralcea leptophylla (A. Gray) Rydb.
+369,4.3,3.4,6.1,0.8,Puccinellia phryganodes (Trin.) Scribn. & Merr.
+597,7.3,2.1,5.2,0.4,Elymus L.
+287,4.1,2.3,2.5,1.3,Sphagnum capillifolium (Ehrh.) Hedw.
+376,5.4,4.4,3.3,1.8,Penstemon montanus Greene
+49,4.7,3.7,2,1.7,Viguiera dentata (Cav.) Spreng. var. lancifolia S.F. Blake
+965,5.4,2.7,2.3,1.7,Jarilla Rusby
+943,7.8,3.1,1.8,0.2,Neraudia angulata Cowan
+471,5.1,3.4,4.7,0.2,Philonotis marchica (Hedw.) Brid.
+711,4.8,2.6,6.8,0.1,Cryptantha tumulosa (Payson) Payson
+531,7.3,3.7,4.8,1.7,Emilia fosbergii Nicolson
+21,5.7,2.5,1.5,1.6,Clermontia samuelii Forbes
+581,5.1,3.7,3.3,0.6,Quercus polymorpha Schltdl. & Cham.
+913,7.3,4.4,3.1,1.3,Nemastylis Nutt.
+988,7.6,3,1.1,2.2,Alvaradoa amorphoides Liebm. ssp. psilophyllis (Urb.) Cronquist
+154,7.8,4.2,2.5,2.4,Drymaria cordata (L.) Willd. ex Schult. ssp. diandra (Blume) J. Duke
